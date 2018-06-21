@@ -1,0 +1,3 @@
+THis is the First line of my file
+and this is the second line of myfile
+this one obviously is the third line of the file

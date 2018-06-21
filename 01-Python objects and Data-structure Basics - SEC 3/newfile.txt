@@ -1,0 +1,3 @@
+THis is new FIle first line
+and this line is second one of newfile
+and this one is third line as you can seeThis is the fourth line of newfile
